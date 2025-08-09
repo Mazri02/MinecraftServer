@@ -1,0 +1,35 @@
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  auto-push:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Fetch all history for all branches and tags
+
+    - name: Configure Git
+      run: |
+        git config user.name "Mazri02"
+        git config user.email "azri.mokhzani@gmail.com"
+
+    # Add any commands that might modify files here
+    # For example, you might run a script that generates files:
+    - name: Run daily update script (example)
+      run: |
+        echo "Daily update: $(date)" >> daily_updates.txt
+
+    - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Daily auto-update: $(date)"
+        git push
