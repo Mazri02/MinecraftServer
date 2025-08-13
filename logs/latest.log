@@ -1,246 +1,109 @@
-[13Aug2025 03:45:29.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OtsoRin[/113.211.122.133:12252] logged in with entity id 226186 at (2.5, 79.0, -1.5)
-[13Aug2025 03:45:29.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin joined the game
-[13Aug2025 03:50:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [Stone Age]
-[13Aug2025 03:54:00.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meow[/182.62.70.212:10748] logged in with entity id 227277 at (215.7863190065179, 119.0, 555.0883311268377)
-[13Aug2025 03:54:00.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow joined the game
-[13Aug2025 03:54:03.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
-[13Aug2025 03:54:11.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> oi
-[13Aug2025 03:54:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> mana ko
-[13Aug2025 03:54:39.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> -17 4
-[13Aug2025 03:54:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> 200 550 119
-[13Aug2025 03:54:55.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> mai
-[13Aug2025 03:55:05.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> ok
-[13Aug2025 04:03:26.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> jumpa ak
-[13Aug2025 04:03:40.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> 200 550 kan
-[13Aug2025 04:03:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> otw
-[13Aug2025 04:03:47.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> haah
-[13Aug2025 04:05:52.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow moved wrongly!
-[13Aug2025 04:08:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [Isn't It Iron Pick]
-[13Aug2025 04:09:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> tidur
-[13Aug2025 04:09:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [Sweet Dreams]
-[13Aug2025 04:09:28.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> kalau kau nak mining, kat bawah pun ada
-[13Aug2025 04:11:04.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> tempat ni dah clear
-[13Aug2025 04:12:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> mana hantu
-[13Aug2025 04:12:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> hantu tu kadang ii dia spawn
-[13Aug2025 04:12:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> kalau duduk lama ii kat gua
-[13Aug2025 04:13:00.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> ohhhhhhhh'
-[13Aug2025 04:13:20.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> aku nak naik atas, kalau kau nak farm iron, kena main layer atas sikit
-[13Aug2025 04:13:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> sini susah dapat
-[13Aug2025 04:13:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OtsoRin> ok
-[13Aug2025 04:13:47.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> nak balik nanti, tengok arah lava
-[13Aug2025 04:15:28.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OtsoRin moved too quickly! 3.447395799113494,2.5,-9.262345544943287
-[13Aug2025 04:21:36.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [We Need to Go Deeper]
-[13Aug2025 04:22:27.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> HAHAHAHAH
-[13Aug2025 04:26:37.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [A Seedy Place]
-[13Aug2025 04:30:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [The Parrots and the Bats]
-[13Aug2025 04:31:32.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin has made the advancement [Acquire Hardware]
-[13Aug2025 04:36:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> tido jap
-[13Aug2025 04:42:17.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OtsoRin lost connection: Disconnected
-[13Aug2025 04:42:17.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OtsoRin left the game
-[13Aug2025 04:50:57.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:50047] logged in with entity id 240673 at (208.98246255904064, 119.0, 554.2639098435698)
-[13Aug2025 04:50:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 04:51:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> dc
-[13Aug2025 04:51:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> dick?
-[13Aug2025 04:52:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> suckmadik
-[13Aug2025 04:52:55.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> ada bucket tak?
-[13Aug2025 04:53:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> ada
-[13Aug2025 04:53:11.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> bak jap
-[13Aug2025 04:53:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> sini
-[13Aug2025 04:53:24.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> ni apa lak ni..
-[13Aug2025 04:53:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> rumah
-[13Aug2025 04:53:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> oh kau nak wat asing eh
-[13Aug2025 04:53:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> bercerai siaa
-[13Aug2025 04:53:56.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> rumah untuk letak barang penting je
-[13Aug2025 04:54:10.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> rumah untuk letak chest aku
-[13Aug2025 04:54:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> kau nak aku letak chest kat luar tu ke
-[13Aug2025 04:54:24.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> kau kat ne anat
-[13Aug2025 04:56:49.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> ada pasir tak
-[13Aug2025 04:56:53.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> takde
-[13Aug2025 05:09:11.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow has made the advancement [What a Deal!]
-[13Aug2025 05:09:20.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 has made the advancement [What a Deal!]
-[13Aug2025 05:33:51.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 has made the advancement [Glow and Behold!]
-[13Aug2025 05:43:07.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[13Aug2025 05:53:06.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow has made the advancement [Take Aim]
-[13Aug2025 06:30:47.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=115, y=-25, z=616} BlockPos{x=114, y=-25, z=616}
-[13Aug2025 06:30:58.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=123, y=-32, z=615} BlockPos{x=122, y=-33, z=615}
-[13Aug2025 06:31:32.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=66, y=-52, z=509} BlockPos{x=67, y=-52, z=508}
-[13Aug2025 06:31:33.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-51, z=511} BlockPos{x=64, y=-51, z=510}
-[13Aug2025 06:31:33.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-51, z=511} BlockPos{x=64, y=-51, z=510}
-[13Aug2025 06:31:33.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-51, z=511} BlockPos{x=64, y=-51, z=510}
-[13Aug2025 06:31:33.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=-51, z=510} BlockPos{x=65, y=-52, z=511}
-[13Aug2025 06:31:41.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=-52, z=506} BlockPos{x=75, y=-51, z=483}
-[13Aug2025 06:31:41.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=-52, z=506} BlockPos{x=75, y=-51, z=483}
-[13Aug2025 06:31:41.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=72, y=-52, z=506} BlockPos{x=75, y=-51, z=483}
-[13Aug2025 06:32:10.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=-52, z=487} BlockPos{x=116, y=-53, z=487}
-[13Aug2025 06:32:11.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=78, y=-53, z=532} BlockPos{x=78, y=-54, z=532}
-[13Aug2025 06:32:45.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=-52, z=488} BlockPos{x=107, y=-52, z=489}
-[13Aug2025 06:32:45.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=-52, z=488} BlockPos{x=107, y=-52, z=489}
-[13Aug2025 06:33:01.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=127, y=-52, z=505} BlockPos{x=125, y=-52, z=504}
-[13Aug2025 06:35:54.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=158, y=-50, z=510} BlockPos{x=159, y=-50, z=510}
-[13Aug2025 06:38:03.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=-50, z=463} BlockPos{x=145, y=-50, z=464}
-[13Aug2025 06:38:44.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=139, y=-52, z=457} BlockPos{x=139, y=-53, z=458}
-[13Aug2025 06:44:54.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=-52, z=404} BlockPos{x=152, y=-53, z=405}
-[13Aug2025 06:44:54.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=151, y=-52, z=403} BlockPos{x=151, y=-53, z=404}
-[13Aug2025 06:45:02.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=-52, z=400} BlockPos{x=144, y=-53, z=399}
-[13Aug2025 06:45:02.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=-52, z=401} BlockPos{x=145, y=-53, z=402}
-[13Aug2025 06:45:02.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=146, y=-52, z=401} BlockPos{x=144, y=-53, z=399}
-[13Aug2025 06:45:02.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=-52, z=400} BlockPos{x=145, y=-53, z=402}
-[13Aug2025 06:45:02.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=145, y=-52, z=399} BlockPos{x=146, y=-51, z=400}
-[13Aug2025 06:45:09.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-50, z=404} BlockPos{x=159, y=-50, z=404}
-[13Aug2025 06:45:10.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-50, z=404} BlockPos{x=159, y=-50, z=404}
-[13Aug2025 06:45:34.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=-52, z=402} BlockPos{x=123, y=-52, z=399}
-[13Aug2025 06:45:34.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=-52, z=403} BlockPos{x=123, y=-52, z=399}
-[13Aug2025 06:46:20.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=-51, z=388} BlockPos{x=149, y=-51, z=387}
-[13Aug2025 06:46:24.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=158, y=-47, z=399} BlockPos{x=159, y=-47, z=399}
-[13Aug2025 06:46:45.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=-51, z=372} BlockPos{x=141, y=-51, z=374}
-[13Aug2025 06:46:46.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=-50, z=370} BlockPos{x=141, y=-51, z=370}
-[13Aug2025 06:46:55.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=-46, z=371} BlockPos{x=142, y=-46, z=371}
-[13Aug2025 06:46:55.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=-46, z=371} BlockPos{x=142, y=-46, z=371}
-[13Aug2025 06:46:55.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=-46, z=371} BlockPos{x=142, y=-46, z=371}
-[13Aug2025 06:46:56.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=141, y=-47, z=369} BlockPos{x=140, y=-47, z=368}
-[13Aug2025 06:46:56.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=140, y=-48, z=368} BlockPos{x=140, y=-47, z=368}
-[13Aug2025 06:47:06.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=-47, z=424} BlockPos{x=156, y=-46, z=424}
-[13Aug2025 06:47:06.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=-46, z=425} BlockPos{x=156, y=-46, z=424}
-[13Aug2025 06:47:06.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-47, z=425} BlockPos{x=156, y=-46, z=424}
-[13Aug2025 06:47:11.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=-52, z=385} BlockPos{x=117, y=-53, z=385}
-[13Aug2025 06:47:28.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=110, y=-52, z=394} BlockPos{x=111, y=-53, z=394}
-[13Aug2025 06:47:52.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=-52, z=418} BlockPos{x=120, y=-53, z=418}
-[13Aug2025 06:47:53.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=-52, z=418} BlockPos{x=120, y=-53, z=418}
-[13Aug2025 06:47:53.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=-52, z=419} BlockPos{x=120, y=-53, z=418}
-[13Aug2025 06:47:53.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=-52, z=419} BlockPos{x=120, y=-53, z=418}
-[13Aug2025 06:47:53.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=-52, z=420} BlockPos{x=120, y=-53, z=418}
-[13Aug2025 06:47:53.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=-52, z=419} BlockPos{x=120, y=-53, z=418}
-[13Aug2025 06:48:01.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=-50, z=351} BlockPos{x=62, y=-50, z=351}
-[13Aug2025 06:48:03.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=59, y=-48, z=351} BlockPos{x=58, y=-49, z=351}
-[13Aug2025 06:49:26.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow lost connection: Disconnected
-[13Aug2025 06:49:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow left the game
-[13Aug2025 06:49:42.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meow[/182.62.70.212:10743] logged in with entity id 265813 at (134.31754106045668, -52.0, 386.9231557356283)
-[13Aug2025 06:49:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow joined the game
-[13Aug2025 06:56:50.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 06:56:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 06:57:22.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:51284] logged in with entity id 267653 at (112.69999998807907, -43.0, 604.6999999880791)
-[13Aug2025 06:57:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 06:59:32.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 06:59:32.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 07:01:34.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:51339] logged in with entity id 268519 at (3.699999988079071, -41.0, 617.6999999880791)
-[13Aug2025 07:01:34.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 07:02:43.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 07:02:43.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 07:04:48.858] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66119798[id=<null>,name=MrWest02,properties={},legacy=false] (/210.186.227.67:51367) lost connection: Disconnected
-[13Aug2025 07:04:54.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:51375] logged in with entity id 269187 at (-2.4281810605670358, -45.0, 615.9456700054302)
-[13Aug2025 07:04:54.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 07:20:59.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=30, y=-18, z=575} BlockPos{x=29, y=-18, z=576}
-[13Aug2025 07:21:08.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=-16, z=579} BlockPos{x=15, y=-17, z=580}
-[13Aug2025 07:21:11.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-14, z=574} BlockPos{x=13, y=-14, z=575}
-[13Aug2025 07:21:11.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-14, z=574} BlockPos{x=13, y=-14, z=575}
-[13Aug2025 07:21:12.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-14, z=574} BlockPos{x=13, y=-14, z=575}
-[13Aug2025 07:21:56.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=-19, z=588} BlockPos{x=3, y=-20, z=588}
-[13Aug2025 07:22:07.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=21, y=-11, z=581} BlockPos{x=23, y=-12, z=580}
-[13Aug2025 07:22:13.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=-11, z=574} BlockPos{x=30, y=-12, z=575}
-[13Aug2025 07:22:20.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=-17, z=586} BlockPos{x=-1, y=-17, z=586}
-[13Aug2025 07:22:20.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=-17, z=586} BlockPos{x=-1, y=-17, z=586}
-[13Aug2025 07:22:20.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=-17, z=586} BlockPos{x=-1, y=-17, z=586}
-[13Aug2025 07:22:30.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=-20, z=576} BlockPos{x=-1, y=-21, z=576}
-[13Aug2025 07:22:47.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=-14, z=577} BlockPos{x=2, y=-14, z=577}
-[13Aug2025 07:22:52.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=-20, z=576} BlockPos{x=-1, y=-21, z=577}
-[13Aug2025 07:24:08.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-6, z=615} BlockPos{x=33, y=-8, z=616}
-[13Aug2025 07:24:08.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-6, z=615} BlockPos{x=33, y=-8, z=616}
-[13Aug2025 07:24:08.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-6, z=615} BlockPos{x=33, y=-8, z=616}
-[13Aug2025 07:24:09.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=-13, z=589} BlockPos{x=-12, y=-14, z=589}
-[13Aug2025 07:24:09.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9, y=-13, z=589} BlockPos{x=-12, y=-14, z=589}
-[13Aug2025 07:24:27.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 07:24:27.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 07:29:10.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:52401] logged in with entity id 274118 at (4.699999988079071, -19.0, 578.840072237087)
-[13Aug2025 07:29:10.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 07:29:24.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 07:29:24.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 07:31:43.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow lost connection: Disconnected
-[13Aug2025 07:31:43.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow left the game
-[13Aug2025 07:31:45.442] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74f95b0c[id=<null>,name=MrWest02,properties={},legacy=false] (/210.186.227.67:52419) lost connection: Disconnected
-[13Aug2025 07:31:50.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:52425] logged in with entity id 274621 at (4.699999988079071, -19.0, 578.840072237087)
-[13Aug2025 07:31:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 07:31:54.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
-[13Aug2025 07:31:58.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 07:31:58.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 07:32:05.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meow[/182.62.70.212:10726] logged in with entity id 274787 at (26.70288341790738, 2.0, 546.1874735129777)
-[13Aug2025 07:32:05.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow joined the game
-[13Aug2025 07:32:11.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow lost connection: Disconnected
-[13Aug2025 07:32:11.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow left the game
-[13Aug2025 07:33:23.689] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a65da34[id=<null>,name=MrWest02,properties={},legacy=false] (/210.186.227.67:52438) lost connection: Disconnected
-[13Aug2025 07:33:28.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:52441] logged in with entity id 274935 at (4.699999988079071, -19.0, 578.840072237087)
-[13Aug2025 07:33:28.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 07:33:31.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
-[13Aug2025 07:34:12.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meow[/182.62.70.212:10724] logged in with entity id 275238 at (24.30000001192093, 2.0, 545.6302353444418)
-[13Aug2025 07:34:12.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow joined the game
-[13Aug2025 07:57:26.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 moved wrongly!
-[13Aug2025 07:58:06.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 07:58:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 08:33:12.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow lost connection: Disconnected
-[13Aug2025 08:33:12.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow left the game
-[13Aug2025 13:39:56.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meow[/182.62.70.212:10749] logged in with entity id 282591 at (224.9905873646464, 123.0, 555.2871351852822)
-[13Aug2025 13:39:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow joined the game
-[13Aug2025 13:39:59.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
-[13Aug2025 13:47:47.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow lost connection: Disconnected
-[13Aug2025 13:47:47.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow left the game
-[13Aug2025 13:48:18.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Meow[/182.62.70.212:10737] logged in with entity id 284372 at (33.928474362749874, -50.0, 535.2381629603607)
-[13Aug2025 13:48:18.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow joined the game
-[13Aug2025 13:48:21.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
-[13Aug2025 13:49:08.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=-52, z=532} BlockPos{x=92, y=-52, z=533}
-[13Aug2025 13:49:16.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=-51, z=533} BlockPos{x=95, y=-51, z=536}
-[13Aug2025 13:51:26.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=-55, z=451} BlockPos{x=5, y=-56, z=450}
-[13Aug2025 13:51:26.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=-55, z=451} BlockPos{x=5, y=-56, z=450}
-[13Aug2025 13:51:26.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6, y=-55, z=452} BlockPos{x=5, y=-56, z=450}
-[13Aug2025 13:51:26.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7, y=-55, z=452} BlockPos{x=5, y=-56, z=450}
-[13Aug2025 13:51:54.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-52, z=449} BlockPos{x=12, y=-53, z=450}
-[13Aug2025 13:51:54.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-52, z=449} BlockPos{x=12, y=-53, z=450}
-[13Aug2025 13:52:08.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=-52, z=430} BlockPos{x=16, y=-53, z=431}
-[13Aug2025 13:53:35.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=-51, z=421} BlockPos{x=46, y=-52, z=423}
-[13Aug2025 13:54:56.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=-52, z=356} BlockPos{x=43, y=-50, z=353}
-[13Aug2025 13:56:29.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=-44, z=342} BlockPos{x=55, y=-45, z=342}
-[13Aug2025 13:57:49.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-49, z=436} BlockPos{x=158, y=-49, z=435}
-[13Aug2025 13:57:52.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-48, z=433} BlockPos{x=159, y=-47, z=433}
-[13Aug2025 13:57:52.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=-48, z=433} BlockPos{x=159, y=-47, z=433}
-[13Aug2025 13:58:11.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=140, y=-52, z=443} BlockPos{x=140, y=-53, z=445}
-[13Aug2025 13:58:11.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=140, y=-52, z=443} BlockPos{x=140, y=-53, z=443}
-[13Aug2025 14:00:54.375] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=65, y=-50, z=605} BlockPos{x=59, y=-48, z=603}
-[13Aug2025 14:02:27.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=-41, z=617} BlockPos{x=81, y=-42, z=617}
-[13Aug2025 14:04:37.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=68, y=-38, z=628} BlockPos{x=68, y=-38, z=626}
-[13Aug2025 14:05:10.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=-29, z=616} BlockPos{x=121, y=-28, z=617}
-[13Aug2025 14:25:35.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:63255] logged in with entity id 291808 at (209.25171636149278, 124.0, 570.2055359645684)
-[13Aug2025 14:25:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 14:27:07.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> fak of
-[13Aug2025 14:27:27.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> nak buat apa ni
-[13Aug2025 14:27:29.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> farm ke
-[13Aug2025 14:27:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> cari bamboo la
-[13Aug2025 14:28:09.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 14:28:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 14:28:09.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:65230] logged in with entity id 292100 at (198.60288356369884, 118.9375, 523.2196802225765)
-[13Aug2025 14:28:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 14:28:46.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MrWest02> kau nk apa tadi?
-[13Aug2025 14:32:55.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Meow> 2004 Solid Block(31st+20) 1776 Slab(27st+48) 582 Stairs(9st+6) 1560 Trapdoor(24st+24) 30 Torch 8 Water Bucket 4 Campfire 4 Chest 4 Hopper 4 Glass 1 Flint & Steel 3st Temp Block
-[13Aug2025 14:56:53.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=-18, z=621} BlockPos{x=123, y=-18, z=621}
-[13Aug2025 15:02:02.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[13Aug2025 15:02:22.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4680ms or 93 ticks behind
-[13Aug2025 15:03:19.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[13Aug2025 15:03:37.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[13Aug2025 15:10:12.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Meow: No data has been recorded yet.]
-[13Aug2025 15:17:48.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 15:17:48.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 15:19:53.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrWest02[/210.186.227.67:49545] logged in with entity id 306402 at (305.7671668711343, 93.0, 605.5926848609986)
-[13Aug2025 15:19:53.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 joined the game
-[13Aug2025 15:20:48.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrWest02 lost connection: Disconnected
-[13Aug2025 15:20:48.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrWest02 left the game
-[13Aug2025 15:20:54.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Meow lost connection: Disconnected
-[13Aug2025 15:20:54.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Meow left the game
-[13Aug2025 15:22:58.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[13Aug2025 15:22:58.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Aug2025 15:22:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Aug2025 15:22:58.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Aug2025 15:23:00.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13Aug2025 15:23:01.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13Aug2025 15:23:01.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13Aug2025 15:23:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13Aug2025 15:23:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Aug2025 15:23:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Aug2025 15:23:01.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13Aug2025 15:23:01.397] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Aug2025 15:23:52.213] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.5, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, %*]
+[13Aug2025 15:23:52.230] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 24.0.2 by Ubuntu; OS Linux arch amd64 version 6.14.0-1009-gcp
+[13Aug2025 15:23:52.859] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[13Aug2025 15:23:53.026] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/minecraft-1.20.1/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[13Aug2025 15:23:53.570] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.5/fmlcore-1.20.1-47.4.5.jar is missing mods.toml file
+[13Aug2025 15:23:53.574] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.5/javafmllanguage-1.20.1-47.4.5.jar is missing mods.toml file
+[13Aug2025 15:23:53.578] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.5/lowcodelanguage-1.20.1-47.4.5.jar is missing mods.toml file
+[13Aug2025 15:23:53.581] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.5/mclanguage-1.20.1-47.4.5.jar is missing mods.toml file
+[13Aug2025 15:23:54.278] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[13Aug2025 15:23:58.001] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[13Aug2025 15:23:58.039] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [%*]
+[13Aug2025 15:24:01.025] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[13Aug2025 15:24:14.325] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.5, for MC 1.20.1 with MCP 20230612.114412
+[13Aug2025 15:24:14.328] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.5 Initialized
+[13Aug2025 15:24:16.044] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[13Aug2025 15:24:16.046] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[13Aug2025 15:24:16.047] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[13Aug2025 15:24:16.047] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[13Aug2025 15:24:16.049] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[13Aug2025 15:24:16.049] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[13Aug2025 15:24:16.050] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[13Aug2025 15:24:16.050] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[13Aug2025 15:24:16.050] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[13Aug2025 15:24:16.051] [main/INFO] [journeymap/]: Initializing Packet Registries
+[13Aug2025 15:24:16.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13Aug2025 15:24:18.220] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.4.5 Target: 47.4.6
+[13Aug2025 15:24:18.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[13Aug2025 15:24:18.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[13Aug2025 15:24:20.470] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13Aug2025 15:24:22.927] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/root/minecraft-1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23111!/assets/.mcassetsroot' uses unexpected schema
+[13Aug2025 15:24:22.928] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/root/minecraft-1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23111!/data/.mcassetsroot' uses unexpected schema
+[13Aug2025 15:24:32.075] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /root/minecraft-1.20.1/tacz
+[13Aug2025 15:24:32.081] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[13Aug2025 15:24:32.081] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[13Aug2025 15:24:37.792] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[13Aug2025 15:24:38.223] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[13Aug2025 15:24:40.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[13Aug2025 15:24:40.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[13Aug2025 15:24:40.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[13Aug2025 15:24:40.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[13Aug2025 15:24:40.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[13Aug2025 15:24:40.453] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[13Aug2025 15:24:40.729] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13Aug2025 15:24:40.732] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[13Aug2025 15:24:40.734] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13Aug2025 15:24:40.735] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[13Aug2025 15:24:40.786] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[13Aug2025 15:24:40.792] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[13Aug2025 15:24:40.803] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Aug2025 15:24:40.804] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Aug2025 15:24:40.809] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Aug2025 15:24:40.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[13Aug2025 15:25:04.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[13Aug2025 15:25:20.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.422] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.454] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.465] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.487] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.501] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.518] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.575] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.588] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.606] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.627] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.693] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.759] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.830] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.884] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.936] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.946] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.947] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.952] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.963] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.969] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:20.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:21.430] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:21.932] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:22.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:22.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:23.429] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:23.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:24.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:24.970] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[13Aug2025 15:25:26.009] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 21081 ms
+[13Aug2025 15:25:26.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (45.236s)! For help, type "help"
+[13Aug2025 15:25:26.063] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Aug2025 15:28:06.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[13Aug2025 15:28:06.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Aug2025 15:28:06.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Aug2025 15:28:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Aug2025 15:28:07.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Aug2025 15:28:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Aug2025 15:28:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Aug2025 15:28:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Aug2025 15:28:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Aug2025 15:28:08.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Aug2025 15:28:08.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Aug2025 15:28:08.268] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
