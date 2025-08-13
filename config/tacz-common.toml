@@ -1,4 +1,20 @@
 
+[other]
+	#Deprecated: now move to .minecraft/tacz/tacz-pre.toml or <your version>/tacz/tacz-pre.toml
+	#When enabled, the reload command will not overwrite the default model file under config
+	DefaultPackDebug = false
+	#The farthest sound distance of the target, including minecarts type
+	#Range: > 0
+	TargetSoundDistance = 128
+	#DEV: Server hitbox offset (If the hitbox is ahead, fill in a negative number)
+	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+	ServerHitboxOffset = 3.0
+	#Server hitbox latency fix
+	ServerHitboxLatencyFix = true
+	#The maximum latency (in milliseconds) for the server hitbox latency fix saved
+	#Range: 250.0 ~ 1.7976931348623157E308
+	ServerHitboxLatencyMaxSaveMs = 1000.0
+
 [gun]
 	#The default fire sound range (block)
 	#Range: > 0
@@ -36,20 +52,4 @@
 	#This is to compensate the side effects introduced while fixing the shooter variable input issue
 	#Range: 0.01 ~ 20.0
 	GlobalBulletSpeedModifier = 2.0
-
-[other]
-	#Deprecated: now move to .minecraft/tacz/tacz-pre.toml or <your version>/tacz/tacz-pre.toml
-	#When enabled, the reload command will not overwrite the default model file under config
-	DefaultPackDebug = false
-	#The farthest sound distance of the target, including minecarts type
-	#Range: > 0
-	TargetSoundDistance = 128
-	#DEV: Server hitbox offset (If the hitbox is ahead, fill in a negative number)
-	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	ServerHitboxOffset = 3.0
-	#Server hitbox latency fix
-	ServerHitboxLatencyFix = true
-	#The maximum latency (in milliseconds) for the server hitbox latency fix saved
-	#Range: 250.0 ~ 1.7976931348623157E308
-	ServerHitboxLatencyMaxSaveMs = 1000.0
 
