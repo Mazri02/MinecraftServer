@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /root/minecraft-1.20.1/
 
 # Stop the Minecraft server
 echo "Stopping Minecraft server..."
