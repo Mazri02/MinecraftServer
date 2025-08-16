@@ -1,0 +1,40 @@
+
+["General Settings"]
+	#Choose between using the global multiplier or the individual multipliers
+	#true uses the global multiplier, false uses the individual multipliers
+	useGlobalMultiplier = true
+
+["Global Multiplier"]
+	#Multiplier for xp dropped from all sources (listed below), useGlobalMultiplier must be true
+	#Range: 0.0 ~ 1000000.0
+	globalMultiplier = 3.35
+
+["Individual Multipliers"]
+	#Multiplier for xp dropped by mining ore or other blocks, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	miningMultiplier = 1.0
+	#Multiplier for xp dropped by mobs, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	mobMultiplier = 1.0
+	#Multiplier for xp dropped by smelting, cooking, or blasting, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	smeltingMultiplier = 1.0
+	#Multiplier for xp dropped from trading with villagers or wandering traders, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	tradeMultiplier = 1.0
+	#Multiplier for xp dropped from breeding animals, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	breedingMultiplier = 1.0
+	#Multiplier for xp dropped from fishing, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	fishingMultiplier = 1.0
+	#Multiplier for xp dropped from using a bottle o'enchanting, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	enchantingBottleMultiplier = 1.0
+	#Multiplier for xp dropped from advancements, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	advancementMultiplier = 1.0
+	#Multiplier for xp dropped from the grindstone, useGlobalMultiplier must be false
+	#Range: 0.0 ~ 1000000.0
+	grindstoneMultiplier = 1.0
+
