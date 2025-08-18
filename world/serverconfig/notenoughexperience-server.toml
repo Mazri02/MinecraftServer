@@ -7,7 +7,7 @@
 ["Global Multiplier"]
 	#Multiplier for xp dropped from all sources (listed below), useGlobalMultiplier must be true
 	#Range: 0.0 ~ 1000000.0
-	globalMultiplier = 3.35
+	globalMultiplier = 6.5
 
 ["Individual Multipliers"]
 	#Multiplier for xp dropped by mining ore or other blocks, useGlobalMultiplier must be false

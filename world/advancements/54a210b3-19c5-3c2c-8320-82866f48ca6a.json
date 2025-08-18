@@ -151,6 +151,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-15 12:30:33 +0000",
       "chicken": "2025-08-15 15:02:27 +0000",
+      "cooked_mutton": "2025-08-17 11:22:32 +0000",
       "sweet_berries": "2025-08-15 12:23:36 +0000",
       "cooked_beef": "2025-08-16 10:51:08 +0000",
       "beef": "2025-08-15 12:21:28 +0000",
@@ -370,6 +371,8 @@
       "minecraft:skeleton": "2025-08-15 12:50:51 +0000",
       "minecraft:spider": "2025-08-15 15:07:43 +0000",
       "minecraft:creeper": "2025-08-15 13:33:55 +0000",
+      "minecraft:phantom": "2025-08-17 09:25:05 +0000",
+      "minecraft:piglin": "2025-08-17 10:13:53 +0000",
       "minecraft:enderman": "2025-08-16 12:32:14 +0000",
       "minecraft:zombie": "2025-08-15 12:44:19 +0000",
       "minecraft:zombie_villager": "2025-08-16 09:21:13 +0000"
@@ -1918,18 +1921,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-08-16 19:05:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-08-16 19:05:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-08-16 19:04:55 +0000"
@@ -1987,6 +1978,72 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-16 19:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-08-16 19:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-08-16 19:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-17 09:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-17 09:17:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-17 10:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-17 09:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-17 09:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-17 10:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-17 10:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-08-17 09:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-17 09:31:13 +0000"
     },
     "done": true
   },
