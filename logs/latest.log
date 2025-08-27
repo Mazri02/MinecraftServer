@@ -1,14 +1,14 @@
-[26Aug2025 00:00:02.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[26Aug2025 00:00:02.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Aug2025 00:00:02.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Aug2025 00:00:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Aug2025 00:00:07.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Aug2025 00:00:08.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[26Aug2025 00:00:08.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Aug2025 00:00:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Aug2025 00:00:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Aug2025 00:00:08.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[26Aug2025 00:00:08.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Aug2025 00:00:08.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Aug2025 00:00:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[26Aug2025 00:00:08.522] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[27Aug2025 00:00:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Aug2025 00:00:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Aug2025 00:00:02.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Aug2025 00:00:02.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Aug2025 00:00:08.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Aug2025 00:00:08.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Aug2025 00:00:08.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[27Aug2025 00:00:08.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Aug2025 00:00:08.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Aug2025 00:00:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Aug2025 00:00:08.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[27Aug2025 00:00:08.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Aug2025 00:00:08.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Aug2025 00:00:08.786] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
