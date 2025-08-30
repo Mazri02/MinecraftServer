@@ -7,19 +7,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-29 14:37:43 +0000",
       "minecraft:old_growth_pine_taiga": "2025-08-10 15:16:20 +0000",
       "minecraft:taiga": "2025-08-10 15:36:07 +0000",
       "minecraft:cherry_grove": "2025-08-18 10:08:29 +0000",
       "minecraft:sunflower_plains": "2025-08-18 10:07:34 +0000",
       "minecraft:birch_forest": "2025-08-10 15:48:48 +0000",
+      "minecraft:savanna_plateau": "2025-08-29 14:40:03 +0000",
       "minecraft:dark_forest": "2025-08-10 17:36:32 +0000",
+      "minecraft:stony_peaks": "2025-08-29 14:40:02 +0000",
       "minecraft:river": "2025-08-10 15:20:44 +0000",
+      "minecraft:stony_shore": "2025-08-29 14:39:31 +0000",
       "minecraft:dripstone_caves": "2025-08-10 15:24:42 +0000",
       "minecraft:grove": "2025-08-10 15:40:10 +0000",
       "minecraft:jagged_peaks": "2025-08-10 16:11:56 +0000",
       "minecraft:forest": "2025-08-10 15:43:24 +0000",
+      "minecraft:ocean": "2025-08-29 14:39:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-10 15:20:55 +0000",
       "minecraft:flower_forest": "2025-08-18 10:04:58 +0000",
+      "minecraft:frozen_peaks": "2025-08-29 14:37:49 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-10 17:25:46 +0000",
       "minecraft:deep_dark": "2025-08-11 09:11:17 +0000",
       "minecraft:meadow": "2025-08-10 15:31:02 +0000",
@@ -184,6 +190,7 @@
       "minecraft:phantom": "2025-08-18 08:26:43 +0000",
       "minecraft:witch": "2025-08-11 08:41:42 +0000",
       "minecraft:wither_skeleton": "2025-08-16 06:48:17 +0000",
+      "minecraft:shulker": "2025-08-29 08:57:45 +0000",
       "minecraft:piglin": "2025-08-14 03:32:46 +0000",
       "minecraft:enderman": "2025-08-14 05:01:33 +0000",
       "minecraft:silverfish": "2025-08-18 10:32:33 +0000",
@@ -281,12 +288,14 @@
       "porkchop": "2025-08-10 15:24:16 +0000",
       "pumpkin_pie": "2025-08-16 17:35:44 +0000",
       "mutton": "2025-08-10 16:13:01 +0000",
+      "pufferfish": "2025-08-29 18:36:44 +0000",
       "bread": "2025-08-10 15:46:52 +0000",
       "golden_apple": "2025-08-12 10:57:29 +0000",
       "cookie": "2025-08-16 18:03:00 +0000",
       "suspicious_stew": "2025-08-16 17:36:33 +0000",
       "rotten_flesh": "2025-08-28 09:38:14 +0000",
       "glow_berries": "2025-08-12 11:32:32 +0000",
+      "golden_carrot": "2025-08-29 15:07:53 +0000",
       "cooked_chicken": "2025-08-16 11:52:52 +0000",
       "enchanted_golden_apple": "2025-08-12 15:57:07 +0000",
       "carrot": "2025-08-12 08:46:05 +0000"
@@ -1301,6 +1310,7 @@
       "minecraft:sheep": "2025-08-10 18:27:40 +0000",
       "minecraft:cow": "2025-08-14 12:29:40 +0000",
       "minecraft:chicken": "2025-08-16 08:05:56 +0000",
+      "minecraft:horse": "2025-08-29 14:48:24 +0000",
       "minecraft:rabbit": "2025-08-15 12:42:09 +0000",
       "minecraft:bee": "2025-08-13 06:28:10 +0000"
     },
@@ -3862,6 +3872,282 @@
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-08-28 19:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-29 08:03:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-08-29 08:56:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-29 08:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-29 08:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-29 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-29 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-08-29 17:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-08-29 18:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-29 18:33:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-08-29 15:38:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-29 18:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-29 14:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-29 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-08-29 14:37:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-08-29 18:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-29 18:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-08-29 17:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-29 14:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-29 15:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-29 18:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-29 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-08-29 15:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-29 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-29 18:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-08-29 17:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-29 17:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-29 17:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-29 18:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-08-29 18:31:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-29 17:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-29 18:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-29 18:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-29 15:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-08-29 17:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-08-29 17:44:54 +0000"
     },
     "done": true
   },
