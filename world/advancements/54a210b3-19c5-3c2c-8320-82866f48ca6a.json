@@ -379,8 +379,11 @@
       "minecraft:spider": "2025-08-15 15:07:43 +0000",
       "minecraft:creeper": "2025-08-15 13:33:55 +0000",
       "minecraft:phantom": "2025-08-17 09:25:05 +0000",
+<<<<<<< HEAD
       "minecraft:wither_skeleton": "2025-08-30 03:55:23 +0000",
       "minecraft:shulker": "2025-08-29 16:32:28 +0000",
+=======
+>>>>>>> refs/remotes/origin/main
       "minecraft:piglin": "2025-08-17 10:13:53 +0000",
       "minecraft:enderman": "2025-08-16 12:32:14 +0000",
       "minecraft:silverfish": "2025-08-30 11:58:46 +0000",
@@ -2004,6 +2007,27 @@
     },
     "done": true
   },
+<<<<<<< HEAD
+=======
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-17 09:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-08-17 09:17:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-08-17 10:13:54 +0000"
+    },
+    "done": true
+  },
+>>>>>>> refs/remotes/origin/main
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-08-17 09:17:21 +0000"
@@ -2016,6 +2040,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-08-17 09:17:24 +0000",
@@ -2048,6 +2073,8 @@
     },
     "done": true
   },
+=======
+>>>>>>> refs/remotes/origin/main
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2025-08-17 10:13:54 +0000"
@@ -2060,6 +2087,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-08-18 09:36:15 +0000"
@@ -3425,6 +3453,17 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-08-30 15:10:46 +0000"
+=======
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-08-17 09:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-17 09:31:13 +0000"
+>>>>>>> refs/remotes/origin/main
     },
     "done": true
   },

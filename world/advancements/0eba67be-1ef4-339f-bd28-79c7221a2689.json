@@ -3371,12 +3371,15 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-08-17 09:47:30 +0000"
     },
     "done": true
   },
+=======
+>>>>>>> refs/remotes/origin/main
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-08-17 09:49:41 +0000"
@@ -3419,12 +3422,42 @@
     },
     "done": true
   },
+<<<<<<< HEAD
+=======
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-17 11:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-17 10:59:34 +0000"
+    },
+    "done": true
+  },
+>>>>>>> refs/remotes/origin/main
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-17 09:49:41 +0000"
     },
     "done": true
   },
+<<<<<<< HEAD
+=======
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-08-17 10:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-17 09:47:30 +0000"
+    },
+    "done": true
+  },
+>>>>>>> refs/remotes/origin/main
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-08-17 09:49:41 +0000"
@@ -3443,6 +3476,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-17 10:59:34 +0000"
@@ -4151,5 +4185,7 @@
     },
     "done": true
   },
+=======
+>>>>>>> refs/remotes/origin/main
   "DataVersion": 3465
 }
