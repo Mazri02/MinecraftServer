@@ -3,3 +3,23 @@ Pushing changes to Git...
 Stopping Minecraft server...
 No screen session found.
 Pushing changes to Git...
+[master dee215c] Daily backup 2025-09-05 13:53
+ Committer: root <root@instance-20250905-122714.us-central1-a.c.minecraft-server-467104.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 17 files changed, 1373 insertions(+), 2005 deletions(-)
+ create mode 100644 logs/2025-09-05-1.log.gz
+ create mode 100644 tacz_backup/tacz_default_gun/backup-20250905-134634-3bc02e01ee7136c5abb247442c42dc7f.zip
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Mazri02/MinecraftServer.git'
+Restarting Minecraft server...
