@@ -1,14 +1,50 @@
-[04Sep2025 00:00:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[04Sep2025 00:00:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Sep2025 00:00:02.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Sep2025 00:00:02.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Sep2025 00:00:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04Sep2025 00:00:05.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04Sep2025 00:00:05.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[04Sep2025 00:00:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04Sep2025 00:00:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Sep2025 00:00:05.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Sep2025 00:00:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[04Sep2025 00:00:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Sep2025 00:00:05.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04Sep2025 00:00:06.133] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Sep2025 15:06:01.076] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.5, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, %*]
+[05Sep2025 15:06:01.081] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.10 by Eclipse Adoptium; OS Linux arch amd64 version 6.1.0-37-cloud-amd64
+[05Sep2025 15:06:01.492] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Sep2025 15:06:01.555] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/root/minecraft-1.20.1/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Sep2025 15:06:01.927] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.5/fmlcore-1.20.1-47.4.5.jar is missing mods.toml file
+[05Sep2025 15:06:01.928] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.5/javafmllanguage-1.20.1-47.4.5.jar is missing mods.toml file
+[05Sep2025 15:06:01.930] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.5/lowcodelanguage-1.20.1-47.4.5.jar is missing mods.toml file
+[05Sep2025 15:06:01.932] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /root/minecraft-1.20.1/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.5/mclanguage-1.20.1-47.4.5.jar is missing mods.toml file
+[05Sep2025 15:06:02.347] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[05Sep2025 15:06:02.348] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[05Sep2025 15:06:04.930] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Sep2025 15:06:05.034] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[05Sep2025 15:06:05.036] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[05Sep2025 15:06:05.039] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [%*]
+[05Sep2025 15:06:06.480] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[05Sep2025 15:06:12.980] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event ...
+[05Sep2025 15:06:13.018] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.3.
+[05Sep2025 15:06:13.152] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[05Sep2025 15:06:13.223] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.5, for MC 1.20.1 with MCP 20230612.114412
+[05Sep2025 15:06:13.223] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.5 Initialized
+[05Sep2025 15:06:16.755] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[05Sep2025 15:06:16.767] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[05Sep2025 15:06:17.087] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[05Sep2025 15:06:17.088] [main/INFO] [journeymap/]: Initializing Packet Registries
+[05Sep2025 15:06:17.183] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[05Sep2025 15:06:18.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[05Sep2025 15:06:18.020] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json?forge=only
+[05Sep2025 15:06:18.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: OUTDATED Current: 1.8.6+mod Target: 1.8.9+mod
+[05Sep2025 15:06:18.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[05Sep2025 15:06:18.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[05Sep2025 15:06:18.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[05Sep2025 15:06:18.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.15 Target: null
+[05Sep2025 15:06:18.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Sep2025 15:06:19.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.4.5 Target: 47.4.8
+[05Sep2025 15:06:19.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[05Sep2025 15:06:19.308] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[05Sep2025 15:06:22.157] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Sep2025 15:06:25.869] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/root/minecraft-1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
+[05Sep2025 15:06:25.869] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/root/minecraft-1.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
+[05Sep2025 15:06:30.543] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /root/minecraft-1.20.1/tacz
+[05Sep2025 15:06:30.546] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[05Sep2025 15:06:30.546] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
