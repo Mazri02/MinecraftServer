@@ -48,3 +48,66 @@
 [05Sep2025 15:06:30.543] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /root/minecraft-1.20.1/tacz
 [05Sep2025 15:06:30.546] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
 [05Sep2025 15:06:30.546] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[05Sep2025 15:06:33.456] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[05Sep2025 15:06:33.498] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[05Sep2025 15:06:33.505] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[05Sep2025 15:06:33.506] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[05Sep2025 15:06:33.508] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[05Sep2025 15:06:33.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[05Sep2025 15:06:33.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[05Sep2025 15:06:33.519] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[05Sep2025 15:06:33.522] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[05Sep2025 15:06:33.667] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1833 advancements
+[05Sep2025 15:06:33.682] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[05Sep2025 15:06:33.689] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[05Sep2025 15:06:33.695] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[05Sep2025 15:06:37.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Sep2025 15:06:37.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Sep2025 15:06:37.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Sep2025 15:06:37.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Sep2025 15:06:37.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Sep2025 15:06:37.525] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Sep2025 15:06:37.643] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Sep2025 15:06:37.643] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Sep2025 15:06:37.644] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Sep2025 15:06:37.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Sep2025 15:06:37.674] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Sep2025 15:06:37.675] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Sep2025 15:06:37.676] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[05Sep2025 15:06:37.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Sep2025 15:06:38.223] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[05Sep2025 15:06:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Sep2025 15:06:48.053] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.162] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.186] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.209] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.229] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.248] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.282] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.319] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.336] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.393] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:48.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Sep2025 15:06:49.367] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[05Sep2025 15:06:49.862] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 25%
+[05Sep2025 15:06:50.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[05Sep2025 15:06:50.390] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8028 ms
+[05Sep2025 15:06:50.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.730s)! For help, type "help"
+[05Sep2025 15:06:50.422] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Sep2025 15:06:50.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Sep2025 15:06:50.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Sep2025 15:06:50.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Sep2025 15:06:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Sep2025 15:06:52.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Sep2025 15:06:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Sep2025 15:06:53.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Sep2025 15:06:53.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Sep2025 15:06:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Sep2025 15:06:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Sep2025 15:06:53.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Sep2025 15:06:53.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Sep2025 15:06:53.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Sep2025 15:06:53.397] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
