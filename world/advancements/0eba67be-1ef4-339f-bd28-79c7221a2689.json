@@ -3326,8 +3326,10 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_venison": "2025-09-07 14:37:46 +0000",
       "meef_stroganoff": "2025-09-06 15:04:00 +0000",
       "maze_wafer": "2025-09-06 14:38:01 +0000",
+      "hydra_chop": "2025-09-07 13:56:44 +0000",
       "cooked_meef": "2025-09-06 16:10:27 +0000",
       "torchberries": "2025-09-06 15:49:42 +0000",
       "cooked_venison": "2025-09-06 12:44:29 +0000"
@@ -3801,9 +3803,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "kill_hydra": "2025-09-07 13:48:08 +0000",
       "stroganoff": "2025-09-06 15:04:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
@@ -4396,6 +4399,7 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2025-09-07 13:48:08 +0000",
       "snow_queen": "2025-09-06 21:04:21 +0000"
     },
     "done": false
@@ -4549,6 +4553,242 @@
       "has_needed_dye": "2025-09-06 23:28:00 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-07 13:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-07 13:03:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ore_map": {
+    "criteria": {
+      "has_item": "2025-09-07 13:13:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2025-09-07 13:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-09-07 13:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-09-07 13:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-07 13:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-09-07 13:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-07 13:42:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-07 13:48:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-09-07 13:48:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/blasted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2025-09-07 14:04:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_ironwood_ingot": {
+    "criteria": {
+      "has_item": "2025-09-07 14:04:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-09-07 14:04:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-09-07 14:30:01 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain": {
+    "criteria": {
+      "has_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_lamp": {
+    "criteria": {
+      "has_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_stool": {
+    "criteria": {
+      "has_wool": "2025-09-07 14:33:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2025-09-07 14:33:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2025-09-07 14:33:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2025-09-07 14:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-09-07 14:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-07 14:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-07 14:34:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-07 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-07 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-07 14:35:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-09-07 16:20:24 +0000",
+      "fiery_chestplate": "2025-09-07 16:20:17 +0000",
+      "fiery_leggings": "2025-09-07 16:20:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
