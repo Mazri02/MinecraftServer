@@ -2971,6 +2971,7 @@
     "criteria": {
       "canopy_trapdoor": "2025-09-06 18:38:36 +0000",
       "canopy_leaves": "2025-09-06 19:53:28 +0000",
+      "canopy_sign": "2025-09-08 14:38:04 +0000",
       "canopy_planks": "2025-09-06 12:42:05 +0000",
       "canopy_sapling": "2025-09-06 12:00:31 +0000",
       "root": "2025-09-06 13:16:04 +0000",
@@ -4199,27 +4200,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "has_item": "2025-09-07 15:57:51 +0000"
+      "has_wheat": "2025-09-07 13:13:58 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/empty_canopy_bookshelf": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_item": "2025-09-07 15:48:11 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2025-09-07 15:59:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/canopy_banister": {
-    "criteria": {
-      "has_item": "2025-09-07 15:48:11 +0000"
+      "has_wheat": "2025-09-07 13:13:58 +0000"
     },
     "done": true
   },
@@ -4229,21 +4218,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-09-07 13:13:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-09-07 13:27:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-09-07 13:13:58 +0000"
     },
     "done": true
   },
@@ -4277,15 +4254,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-09-07 15:39:05 +0000"
-    },
-    "done": true
-  },
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2025-09-07 15:06:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-09-07 15:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-09-07 15:39:05 +0000"
     },
     "done": true
   },
@@ -4295,15 +4278,123 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/empty_canopy_bookshelf": {
+    "criteria": {
+      "has_item": "2025-09-07 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/canopy_banister": {
+    "criteria": {
+      "has_item": "2025-09-07 15:48:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-09-07 15:57:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/mossy_underbrick": {
     "criteria": {
       "has_item": "2025-09-07 15:57:51 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map": {
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
-      "has_item": "2025-09-07 15:06:42 +0000"
+      "has_item": "2025-09-07 15:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-09-08 14:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-09-08 14:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-09-08 14:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2025-09-08 14:20:10 +0000"
     },
     "done": true
   },

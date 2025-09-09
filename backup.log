@@ -237,3 +237,28 @@ To https://github.com/Mazri02/MinecraftServer.git
 Restarting Minecraft server...
 Stopping Minecraft server...
 Pushing changes to Git...
+[main eb6be88] Daily backup 2025-09-08 00:00
+ 145 files changed, 5310 insertions(+), 1406 deletions(-)
+ create mode 100644 logs/2025-09-07-3.log.gz
+ create mode 100644 logs/2025-09-07-4.log.gz
+ create mode 100644 world/data/mazemap_2.dat
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/entities/r.-1.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/entities/r.-2.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/entities/r.-3.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/entities/r.-3.7.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/entities/r.0.11.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/entities/r.1.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/poi/r.-1.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/poi/r.-2.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/poi/r.0.11.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/region/r.-2.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/region/r.-3.6.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/region/r.-4.7.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/region/r.-4.8.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/region/r.-4.9.mca
+ create mode 100644 world/dimensions/twilightforest/twilight_forest/region/r.0.12.mca
+To https://github.com/Mazri02/MinecraftServer.git
+   5914015..eb6be88  main -> main
+Restarting Minecraft server...
+Stopping Minecraft server...
+Pushing changes to Git...
