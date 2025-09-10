@@ -14,4 +14,4 @@ git push origin main
 
 # Restart the server
 echo "Restarting Minecraft server..."
-screen -dmS minecraft ./run.bat
+screen -dmS minecraft ./run.sh
