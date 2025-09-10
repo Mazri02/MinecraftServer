@@ -15,3 +15,13 @@ No screen session found.
 No Sockets found in /run/screen/S-root.
 
 Pushing changes to Git...
+[main c50d573] Daily backup 2025-09-10 12:14
+ 1 file changed, 12 insertions(+)
+To https://github.com/Mazri02/MinecraftServer.git
+   2159ba3..c50d573  main -> main
+Restarting Minecraft server...
+Stopping Minecraft server...
+There is a screen on:
+	558665.minecraft	(09/10/25 12:14:42)	(Detached)
+1 Socket in /run/screen/S-root.
+Pushing changes to Git...
