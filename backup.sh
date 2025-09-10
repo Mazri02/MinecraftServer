@@ -27,4 +27,5 @@ if screen -list | grep -q "minecraft"; then
 fi
 
 # Start new screen session
-screen -dmS minecraft bash -c "cd /root/minecraft-1.20.1/ && ./run.sh"
+# screen -dmS minecraft bash -c "cd /root/minecraft-1.20.1/ && ./run.sh"
+pwd
