@@ -428,14 +428,18 @@
       "cooked_porkchop": "2025-09-02 05:39:56 +0000",
       "cooked_mutton": "2025-09-01 19:28:31 +0000",
       "chorus_fruit": "2025-09-06 23:08:45 +0000",
+      "cooked_beef": "2025-09-10 17:57:06 +0000",
+      "beef": "2025-09-10 17:21:16 +0000",
       "apple": "2025-09-02 08:31:05 +0000",
       "spider_eye": "2025-09-06 11:50:18 +0000",
       "potato": "2025-09-02 08:05:41 +0000",
+      "cooked_cod": "2025-09-10 15:17:33 +0000",
       "pumpkin_pie": "2025-09-01 18:22:15 +0000",
       "mutton": "2025-09-06 12:54:37 +0000",
       "bread": "2025-09-02 08:08:24 +0000",
       "golden_apple": "2025-09-06 15:00:40 +0000",
       "rotten_flesh": "2025-09-01 18:10:22 +0000",
+      "salmon": "2025-09-10 14:41:34 +0000",
       "cooked_chicken": "2025-09-02 08:50:27 +0000"
     },
     "done": false
@@ -3284,11 +3288,17 @@
   "twilightforest:arborist": {
     "criteria": {
       "stripped_canopy_log": "2025-09-06 19:14:06 +0000",
+      "encased_towerwood": "2025-09-10 16:07:26 +0000",
       "canopy_planks": "2025-09-06 13:02:09 +0000",
+      "towerwood": "2025-09-10 16:10:56 +0000",
       "canopy_sapling": "2025-09-06 11:59:51 +0000",
       "root": "2025-09-06 12:01:03 +0000",
+      "dark_log": "2025-09-10 14:46:18 +0000",
       "twilight_oak_sapling": "2025-09-06 12:49:53 +0000",
       "liveroot": "2025-09-06 19:23:17 +0000",
+      "giant_leaves": "2025-09-10 18:54:30 +0000",
+      "hollow_oak_sapling": "2025-09-10 17:39:39 +0000",
+      "giant_log": "2025-09-10 18:52:19 +0000",
       "canopy_log": "2025-09-06 11:59:48 +0000",
       "twilight_oak_leaves": "2025-09-06 12:46:08 +0000"
     },
@@ -3332,9 +3342,10 @@
       "hydra_chop": "2025-09-07 13:56:44 +0000",
       "cooked_meef": "2025-09-06 16:10:27 +0000",
       "torchberries": "2025-09-06 15:49:42 +0000",
+      "experiment_115": "2025-09-10 16:56:03 +0000",
       "cooked_venison": "2025-09-06 12:44:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
@@ -3567,9 +3578,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-09-06 13:02:57 +0000"
+      "kill_lich": "2025-09-06 13:02:57 +0000",
+      "trophy_pedestal": "2025-09-10 15:09:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -4400,9 +4412,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-09-07 13:48:08 +0000",
-      "snow_queen": "2025-09-06 21:04:21 +0000"
+      "snow_queen": "2025-09-06 21:04:21 +0000",
+      "ur_ghast": "2025-09-10 16:31:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/snow_queen_banner_pattern": {
     "criteria": {
@@ -4785,10 +4798,11 @@
   "twilightforest:fiery_set": {
     "criteria": {
       "fiery_boots": "2025-09-07 16:20:24 +0000",
+      "fiery_sword": "2025-09-10 17:05:10 +0000",
       "fiery_chestplate": "2025-09-07 16:20:17 +0000",
       "fiery_leggings": "2025-09-07 16:20:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
@@ -4915,6 +4929,317 @@
       "has_granite": "2025-09-09 09:48:08 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-09-10 14:46:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-09-10 14:46:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-09-10 15:26:51 +0000",
+      "previous_progression": "2025-09-10 15:09:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-09-10 15:09:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-09-10 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-09-10 15:12:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-09-10 15:26:51 +0000",
+      "ghast": "2025-09-10 16:31:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-10 15:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-09-10 15:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-09-10 15:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-09-10 15:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-09-10 15:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-09-10 15:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-09-10 15:34:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/smelted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-09-10 15:45:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/blasted_knightmetal_ingot": {
+    "criteria": {
+      "has_item": "2025-09-10 15:45:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_leggings": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/block_and_chain": {
+    "criteria": {
+      "has_ingot": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_sword": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_pickaxe": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_shield": {
+    "criteria": {
+      "has_ingot": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/knightmetal_block": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/knightmetal_axe": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_boots": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_helmet": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/knightmetal_ring": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/knightmetal_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-10 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/vanishing_block": {
+    "criteria": {
+      "has_item": "2025-09-10 16:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/reappearing_block": {
+    "criteria": {
+      "has_item": "2025-09-10 16:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
+    "criteria": {
+      "has_item": "2025-09-10 16:10:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mossy_towerwood": {
+    "criteria": {
+      "has_item": "2025-09-10 16:10:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-10 16:12:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-09-10 16:31:36 +0000",
+      "lamp": "2025-09-10 19:02:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-09-10 16:31:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-10 16:32:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-09-10 16:32:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-09-10 16:32:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-09-10 16:32:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-09-10 16:46:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-09-10 16:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-09-10 17:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-09-10 17:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-09-10 17:19:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-09-10 18:42:26 +0000",
+      "use_beans": "2025-09-10 18:48:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-09-10 18:41:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
+    "criteria": {
+      "has_item": "2025-09-10 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-09-10 18:42:26 +0000",
+      "giant": "2025-09-10 18:50:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-09-10 18:52:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_leaves_to_oak_leaves": {
+    "criteria": {
+      "has_item": "2025-09-10 18:54:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/snowy_cloud": {
+    "criteria": {
+      "has_item": "2025-09-10 18:54:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-09-10 19:02:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

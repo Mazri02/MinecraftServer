@@ -27,5 +27,4 @@ if screen -list | grep -q "minecraft"; then
 fi
 
 # Start new screen session
-pwd
 screen -dmS minecraft ./run.sh
