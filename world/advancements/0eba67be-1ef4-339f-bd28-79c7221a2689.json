@@ -3294,6 +3294,7 @@
       "canopy_sapling": "2025-09-06 11:59:51 +0000",
       "root": "2025-09-06 12:01:03 +0000",
       "dark_log": "2025-09-10 14:46:18 +0000",
+      "huge_stalk": "2025-09-11 14:02:58 +0000",
       "twilight_oak_sapling": "2025-09-06 12:49:53 +0000",
       "liveroot": "2025-09-06 19:23:17 +0000",
       "giant_leaves": "2025-09-10 18:54:30 +0000",
@@ -5191,22 +5192,16 @@
     },
     "done": true
   },
-  "twilightforest:beanstalk": {
-    "criteria": {
-      "beans": "2025-09-10 18:42:26 +0000",
-      "use_beans": "2025-09-10 18:48:15 +0000"
-    },
-    "done": true
-  },
   "twilightforest:troll": {
     "criteria": {
       "troll": "2025-09-10 18:41:54 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/rainy_cloud": {
+  "twilightforest:beanstalk": {
     "criteria": {
-      "has_item": "2025-09-10 18:54:00 +0000"
+      "beans": "2025-09-10 18:42:26 +0000",
+      "use_beans": "2025-09-10 18:48:15 +0000"
     },
     "done": true
   },
@@ -5223,9 +5218,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/giant_leaves_to_oak_leaves": {
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
     "criteria": {
-      "has_item": "2025-09-10 18:54:30 +0000"
+      "has_item": "2025-09-10 18:54:00 +0000"
     },
     "done": true
   },
@@ -5235,9 +5230,43 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/giant_leaves_to_oak_leaves": {
+    "criteria": {
+      "has_item": "2025-09-10 18:54:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progression_end": {
     "criteria": {
-      "previous_progression": "2025-09-10 19:02:35 +0000"
+      "previous_progression": "2025-09-10 19:02:35 +0000",
+      "plateau": "2025-09-11 13:21:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chestplate": "2025-09-11 13:46:32 +0000",
+      "helmet": "2025-09-11 13:46:34 +0000",
+      "boots": "2025-09-11 13:46:30 +0000",
+      "leggings": "2025-09-11 13:46:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/arctic_block_to_item": {
+    "criteria": {
+      "has_item": "2025-09-11 13:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-11 14:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:horse": "2025-09-11 14:20:38 +0000"
     },
     "done": false
   },

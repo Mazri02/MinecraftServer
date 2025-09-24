@@ -25,10 +25,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-19 10:24:10 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-06 16:58:39 +0000",
       "minecraft:taiga": "2025-09-06 16:58:33 +0000",
+      "minecraft:cherry_grove": "2025-09-12 15:09:40 +0000",
+      "minecraft:sunflower_plains": "2025-09-19 10:26:01 +0000",
       "minecraft:birch_forest": "2025-09-01 13:34:52 +0000",
       "minecraft:dark_forest": "2025-09-02 13:14:32 +0000",
+      "minecraft:stony_peaks": "2025-09-19 10:23:31 +0000",
+      "minecraft:sparse_jungle": "2025-09-19 10:23:46 +0000",
       "minecraft:river": "2025-09-02 09:22:55 +0000",
       "minecraft:stony_shore": "2025-09-06 10:06:36 +0000",
       "minecraft:dripstone_caves": "2025-09-01 13:37:49 +0000",
@@ -36,6 +41,10 @@
       "minecraft:jagged_peaks": "2025-09-02 09:14:37 +0000",
       "minecraft:forest": "2025-09-02 09:23:14 +0000",
       "minecraft:ocean": "2025-09-06 10:06:31 +0000",
+      "minecraft:jungle": "2025-09-19 10:23:26 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-19 11:19:10 +0000",
+      "minecraft:flower_forest": "2025-09-19 10:26:04 +0000",
+      "minecraft:frozen_peaks": "2025-09-19 10:24:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-02 09:23:07 +0000",
       "minecraft:deep_dark": "2025-09-02 09:40:46 +0000",
       "minecraft:meadow": "2025-09-01 13:32:00 +0000",
@@ -57,6 +66,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-19 11:17:08 +0000",
       "minecraft:skeleton": "2025-09-01 13:33:54 +0000",
       "minecraft:hoglin": "2025-09-06 11:09:27 +0000",
       "minecraft:spider": "2025-09-01 13:35:13 +0000",
@@ -70,7 +80,8 @@
       "minecraft:enderman": "2025-09-06 11:41:38 +0000",
       "minecraft:endermite": "2025-09-06 18:52:00 +0000",
       "minecraft:zombie": "2025-09-01 13:34:22 +0000",
-      "minecraft:drowned": "2025-09-02 09:24:39 +0000"
+      "minecraft:drowned": "2025-09-02 09:24:39 +0000",
+      "minecraft:zombie_villager": "2025-09-12 08:10:42 +0000"
     },
     "done": false
   },
@@ -96,7 +107,10 @@
     "criteria": {
       "cooked_porkchop": "2025-09-06 23:07:23 +0000",
       "baked_potato": "2025-09-01 13:40:50 +0000",
+      "pumpkin_pie": "2025-09-14 06:06:42 +0000",
       "bread": "2025-09-01 13:34:35 +0000",
+      "suspicious_stew": "2025-09-11 12:21:29 +0000",
+      "cookie": "2025-09-14 06:05:27 +0000",
       "cooked_chicken": "2025-09-02 12:49:19 +0000",
       "cod": "2025-09-06 10:09:38 +0000"
     },
@@ -2940,6 +2954,7 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-09-14 05:12:03 +0000",
       "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2025-09-06 11:42:52 +0000"
     },
     "done": false
@@ -2973,13 +2988,21 @@
       "canopy_trapdoor": "2025-09-06 18:38:36 +0000",
       "canopy_leaves": "2025-09-06 19:53:28 +0000",
       "canopy_sign": "2025-09-08 14:38:04 +0000",
+      "canopy_chest": "2025-09-12 07:06:41 +0000",
+      "canopy_door": "2025-09-12 15:00:48 +0000",
+      "beanstalk_leaves": "2025-09-14 10:34:53 +0000",
       "canopy_planks": "2025-09-06 12:42:05 +0000",
       "canopy_sapling": "2025-09-06 12:00:31 +0000",
       "root": "2025-09-06 13:16:04 +0000",
       "twilight_oak_log": "2025-09-06 13:15:55 +0000",
       "twilight_oak_wood": "2025-09-06 13:15:53 +0000",
       "canopy_stairs": "2025-09-07 15:48:15 +0000",
+      "huge_stalk": "2025-09-12 08:19:14 +0000",
+      "twilight_oak_sapling": "2025-09-14 12:46:47 +0000",
+      "giant_log": "2025-09-11 13:28:11 +0000",
       "canopy_log": "2025-09-06 12:00:32 +0000",
+      "twilight_oak_leaves": "2025-09-14 12:45:00 +0000",
+      "dark_leaves": "2025-09-11 13:07:04 +0000",
       "canopy_slab": "2025-09-07 15:48:11 +0000",
       "hedge": "2025-09-07 15:46:40 +0000"
     },
@@ -3078,6 +3101,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2025-09-06 15:03:53 +0000",
+      "experiment_115": "2025-09-11 12:44:24 +0000",
       "cooked_venison": "2025-09-06 12:44:56 +0000"
     },
     "done": false
@@ -3175,9 +3199,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-09-06 13:02:57 +0000"
+      "kill_lich": "2025-09-06 13:02:57 +0000",
+      "trophy_pedestal": "2025-09-11 12:58:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -3231,9 +3256,10 @@
   },
   "twilightforest:progression_end": {
     "criteria": {
+      "previous_progression": "2025-09-11 13:12:28 +0000",
       "plateau": "2025-09-06 13:10:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
@@ -3495,9 +3521,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "trophy": "2025-09-11 12:42:15 +0000",
       "stroganoff": "2025-09-06 15:03:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "another_furniture:recipes/spruce_table": {
     "criteria": {
@@ -3873,9 +3900,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-09-06 19:19:26 +0000"
+      "previous_progression": "2025-09-06 19:19:26 +0000",
+      "trophy": "2025-09-11 12:42:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
@@ -4582,6 +4610,589 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-09-09 10:23:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_sword": "2025-09-11 12:28:21 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-11 12:29:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-09-11 12:58:22 +0000",
+      "trophy": "2025-09-11 12:29:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-09-11 12:58:22 +0000",
+      "trophy": "2025-09-11 12:35:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-11 12:35:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "maze_map": "2025-09-11 12:41:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-09-11 12:42:15 +0000",
+      "snow_queen": "2025-09-11 12:42:26 +0000",
+      "ur_ghast": "2025-09-11 12:58:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-11 12:42:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-09-11 12:42:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-09-11 12:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-09-11 12:46:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-09-11 12:58:22 +0000",
+      "lamp": "2025-09-11 13:12:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-09-11 13:12:08 +0000",
+      "use_beans": "2025-09-11 13:17:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-09-11 13:12:08 +0000",
+      "giant": "2025-09-11 13:18:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-09-11 13:13:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-09-11 13:28:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/rainy_cloud": {
+    "criteria": {
+      "has_item": "2025-09-11 13:48:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/snowy_cloud": {
+    "criteria": {
+      "has_item": "2025-09-11 13:48:59 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-09-12 08:37:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-09-12 08:37:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-12 08:37:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-09-12 08:37:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-09-12 08:37:28 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-09-12 09:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-12 09:18:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-09-12 09:29:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/cyan_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/magenta_curtain_dyeing": {
+    "criteria": {
+      "has_white_curtain": "2025-09-12 09:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-09-12 10:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-09-12 13:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-09-12 13:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-12 15:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-09-13 03:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-09-13 03:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-13 03:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-13 03:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-09-13 03:56:15 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/decorations/cicada_jar": {
+    "criteria": {
+      "has_item": "2025-09-14 12:42:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:kill_cicada": {
+    "criteria": {
+      "kill_cicada": "2025-09-14 12:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-09-14 12:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 12:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2025-09-14 12:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 12:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-14 12:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-09-19 10:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:ragdoll": "2025-09-19 10:32:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-19 10:32:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-09-19 11:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-19 11:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-09-19 11:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2025-09-19 11:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-09-19 11:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-09-19 11:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-09-19 11:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-19 11:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-19 11:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-19 11:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-19 11:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-09-19 11:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-09-19 11:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-19 11:16:52 +0000"
     },
     "done": true
   },
