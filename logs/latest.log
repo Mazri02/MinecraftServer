@@ -1,6 +1,6 @@
-[22Sep2025 12:52:37.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jim[/115.164.80.205:36048] logged in with entity id 3837863 at (161.5, 235.80100000596047, 525.5)
-[22Sep2025 12:52:37.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jim joined the game
-[22Sep2025 13:01:53.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jim lost connection: Disconnected
-[22Sep2025 13:01:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jim left the game
-[22Sep2025 13:51:11.557] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,tacz:handshake,curios:main,forge:tier_sorting,caelus:main,tacz:network,twilightforest:channel,geckolib:main] rejected vanilla connections
-[22Sep2025 13:51:11.558] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/45.148.10.134:58988] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[29Sep2025 09:50:05.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jim[/115.164.213.117:2783] logged in with entity id 3874777 at (146.00749982899492, 236.0, 542.5907165468653)
+[29Sep2025 09:50:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jim joined the game
+[29Sep2025 09:56:20.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1285, y=24, z=4452} BlockPos{x=1285, y=20, z=4451}
+[29Sep2025 09:56:20.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1285, y=24, z=4452} BlockPos{x=1285, y=20, z=4451}
+[29Sep2025 10:01:25.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jim lost connection: Disconnected
+[29Sep2025 10:01:25.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jim left the game
